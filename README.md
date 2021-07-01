@@ -1,10 +1,9 @@
-### Oi! 👋
+### Hi! 👋
 <hr/>
 
 - 📍 From RJ living in Lisboa|PT
 - 💻 Front-End
 
-Estou por aqui: 👇🏼
 
 <div> 
 
