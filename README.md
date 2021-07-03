@@ -9,7 +9,7 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
-      height="165"
+      height="150"
       src="https://github-readme-stats.vercel.app/api?username=camillemiranda&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
     />
   </a>
@@ -18,7 +18,7 @@
 ## Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 ### Abstract
-- 📍 From RJ living in Lisboa|PT
+-  📍 From RJ living in Lisboa|PT
 - 💻 Front-End
 - 👾 https://camille-miranda.netlify.app/
 - 💙 Interesse:  html, css, javaScript.
