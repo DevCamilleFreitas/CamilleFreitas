@@ -20,7 +20,7 @@
 ### Abstract
 - 📍 From RJ living in Lisboa|PT
 - 💻 Front-End
-- 👩 https://camille-miranda.netlify.app/
+- 👾 https://camille-miranda.netlify.app/
 - 💙 Interesse:  html, css, javaScript.
 
 
@@ -33,6 +33,8 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
 ## Contact :iphone:
 
 <p align="center">
@@ -44,10 +46,7 @@
         <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:mateusaraujo996@gmail.com">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/camillemirandaa">
+    <a href="https://www.linkedin.com/in/mateusaraujobarros">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/mateusaraujobarros/">
     </a>
-</p>
-
-
 </p>
