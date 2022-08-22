@@ -2,8 +2,8 @@
 ## Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 ### Abstract
--  📍 From RJ living in Lisboa|PT
-- 💻 Front-End
+-  📍 From RJ living in Porto - PT
+- 💻 Developer Android
 - 👾 https://camille-miranda.netlify.app/
 - 💙 Interesse:  html, css, javaScript.
 
